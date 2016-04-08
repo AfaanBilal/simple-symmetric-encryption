@@ -5,7 +5,7 @@
  *    URL:    https://afaan.ml
  *    
  *    Released under the MIT License
- *    (c) 2015 Afaan Bilal
+ *    (c) 2016 Afaan Bilal
  *
  */
 
