@@ -42,6 +42,8 @@ int main()
     printf("Decrypted: %s\n", decrypted);
     
     getch();
+    free(encrypted);
+    free(decrypted);
     return 0;
 }
 
