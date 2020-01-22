@@ -1,8 +1,7 @@
 Simple Symmetric Key Encryption
 ==============
 
-Author: **Afaan Bilal ([@AfaanBilal](https://github.com/AfaanBilal))**   
-Author URL: **[Google+](https://google.com/+AfaanBilal)**
+Author: **[Afaan Bilal](https://afaan.me)**  
 
 ## Introduction
 **Simple Symmetric Key Encryption** is a small and simple C program that implements 
